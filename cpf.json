@@ -1,0 +1,121 @@
+[
+    {
+    "id": 1,
+    "cpf": 123456789,
+    "nome": "Sofia",
+    "sobrenome": "Alcântara",
+    "cidade": "Mogi das Cruzes",
+    "pais": "Brasil"
+
+    },
+
+    {
+    "id": 1,
+    "cpf": 123456799,
+    "nome": "Laura Sayuri",
+    "sobrenome": "Terukina",
+    "cidade": "Mogi das Cruzes",
+    "pais": "Brasil"
+    },
+
+
+    
+    {
+        "id": 1,
+        "cpf": 123456790,
+        "nome": "Vinicius",
+        "sobrenome": "Félix",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+        }, 
+    
+    {
+      "id": 1,
+      "cpf": 123456732,
+      "nome": "João Victor",
+      "sobrenome": "Rodrigues",
+      "cidade": "Mogi das Cruzes",
+      "pais": "Brasil"
+        },
+
+            
+    {
+        "id": 1,
+        "cpf": 123456722,
+        "nome": "Marina",
+        "sobrenome": "Scheineder",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+        },
+
+   {
+       "id": 1,
+       "cpf": 123456744,
+       "nome": "Tailyni",
+       "sobrenome": "Satirio",
+       "cidade": "Mogi das Cruzes",
+       "pais": "Brasil"
+       },
+
+    
+   {
+       "id": 1,
+       "cpf": 123456733,
+       "nome": "Livia",
+       "sobrenome": "Godoy",
+       "cidade": "Mogi das Cruzes",
+       "pais": "Brasil"
+         },
+
+    
+    {
+        "id": 1,
+        "cpf": 123456721,
+        "nome": "Yasmin",
+        "sobrenome": "Ribeiro",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+          },
+
+    
+    {
+        "id": 1,
+        "cpf": 123456743,
+        "nome": "João Pedro",
+        "sobrenome": "Figueira",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+            },
+
+
+   {
+        "id": 1,
+        "cpf": 123456757,
+        "nome": "Otávio",
+        "sobrenome": "Vinicius",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+     },
+
+   {
+       "id": 1,
+       "cpf": 123456732,
+       "nome": "Leonardo",
+       "sobrenome": "Porfirio",
+       "cidade": "Mogi das Cruzes",
+       "pais": "Brasil"
+      },
+
+
+                                
+    {
+        "id": 1,
+        "cpf": 123456728,
+        "nome": "Igor",
+        "sobrenome": "Teixeira",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+        }
+
+
+]

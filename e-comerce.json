@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nome": "Jaqueta Jeans Azul Claro",
+        "preco": "R$ 299,90",
+        "descricao": "Jaqueta em jeans azul claro, com um toque despojado e moderno. Ideal para completar o look casual e conferir um estilo descolado ao seu dia a dia.",
+        "imagem": "IMG/jaqueta-jeans-destroyed-azul-claro-1036014-Azul_Claro_1.webp"
+    },
+    {
+        "id": 2,
+        "nome": "Jaqueta de Couro",
+        "preco": "R$ 67,00",
+        "descricao": "Jaqueta de couro preta com estilo biker, perfeita para um visual ousado e sofisticado. Confeccionada com couro de alta qualidade e acabamento impecável.",
+        "imagem": "IMG/1779853_jaqueta-couro-ellus-biker-56i1773_l210_638525122858972434.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Shorts Jeans Longo",
+        "preco": "R$ 89,90",
+        "descricao": "Shorts jeans longo com lavagem moderna e cintura alta. Confortável e versátil, ideal para um look casual e descontraído.",
+        "imagem": "IMG/crawling-bermuda-jorts-jeans-azul-cintura-alta-feminina-4772-78280241-1-zoom.webp"
+    },
+    {
+        "id": 4,
+        "nome": "Calça Jeans Simples",
+        "preco": "R$ 145,00",
+        "descricao": "Calça jeans clássica com corte reto e acabamento sofisticado. Perfeita para qualquer ocasião, oferecendo conforto e estilo.",
+        "imagem": "IMG/lança-perfume-calça-jeans-lança-perfume-wide-leg-pesponto-azul-2316-27770341-1-zoom.webp"
+    },
+    {
+        "id": 5,
+        "nome": "Calça Jeans Despojada Azul Claro",
+        "preco": "R$ 180,90",
+        "descricao": "Calça jeans com corte baggy e lavagem azul clara, trazendo um visual casual e despojado. Ideal para um look moderno e confortável.",
+        "imagem": "IMG/new-denim-calça-baggy-audrey-8588-48957331-1-zoom.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Short Linho Masculino",
+        "preco": "R$ 54,00",
+        "descricao": "Short masculino em linho verde, ideal para dias quentes. Confortável e leve, perfeito para um visual casual e elegante.",
+        "imagem": "IMG/dulk-short-linho-masculino-dulk-bermuda-mauricinho-verde-2525-20356141-1-zoom.webp"
+    },
+    {
+        "id": 7,
+        "nome": "Cropped Manga Longa Azul",
+        "preco": "R$ 45,50",
+        "descricao": "Cropped azul com manga longa e amarração lateral, ideal para um look casual e elegante. Confeccionado em tecido leve e confortável.",
+        "imagem": "IMG/brusa-cropped-manga-longa-amarracao-lateral-azul-1025160-Azul_1.webp"
+    },
+    {
+        "id": 8,
+        "nome": "Brincos de Raio Argola",
+        "preco": "R$ 23,90",
+        "descricao": "Brincos masculinos em forma de raio, adicionando um toque de estilo e personalidade. Feitos com material durável e acabamento refinado.",
+        "imagem": "IMG/brinco-masculino-argola-raio-flash-relampago-92xojh25jc.webp"
+    },
+    {
+        "id": 9,
+        "nome": "Conjunto Social Verão",
+        "preco": "R$ 179,85",
+        "descricao": "Conjunto social ideal para o verão, com peças leves e elegantes. Perfeito para eventos sociais e ocasiões especiais.",
+        "imagem": "IMG/LOOK-28-10-copiar.webp"
+    },
+    {
+        "id": 10,
+        "nome": "Brinco Argola Ponto de Luz",
+        "preco": "R$ 15,90",
+        "descricao": "Brinco argola com ponto de luz. Um acessório sofisticado e elegante, ideal para completar qualquer visual.",
+        "imagem": "IMG/brinco_argola_meia_cana_1_5_cm_com_ponto_de_luz_banhado_em_ouro_18k_5953_2_d78ee33eb425d47c678ed9d1523b0826.webp"
+    },
+    {
+        "id": 11,
+        "nome": "Cropped Preto Justo",
+        "preco": "R$ 26,00",
+        "descricao": "Cropped preto justo, ideal para um look casual e moderno. Feito com tecido canelado e confortável, é a escolha perfeita para o dia a dia.",
+        "imagem": "IMG/Top-Cropped-Seamless-Canelado-Preto-TP1549.webp"
+    },
+    {
+        "id": 12,
+        "nome": "Jaqueta Verde Capuz Inverno",
+        "preco": "R$ 159,90",
+        "descricao": "Jaqueta verde com capuz, ideal para os dias frios de inverno. Confeccionada em material quente e confortável, combina estilo e funcionalidade.",
+        "imagem": "IMG/100031373.jpg"
+    }
+]
